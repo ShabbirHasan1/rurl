@@ -1,0 +1,12 @@
+[package]
+name = "rurl"
+version = "0.1.0"
+edition = "2021"
+description = "Easy command line HTTP client for Impersonating Chrome/OkHttp request"
+license = "MIT"
+homepage = "https://github.com/gngpp/rurl"
+repository = "https://github.com/gngpp/rurl.git"
+readme = "README.md"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
